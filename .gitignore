@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.env
+
+cert/cert.crt
+cert/server_pub.csr
+cert/server_secret.key
