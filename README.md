@@ -9,3 +9,6 @@ This repo is for flask-dance practice.
 ```
 Settings > Developer settings > OAuth Apps > New OAuth App
 ```
+
+## HTTPS Settings
+OAuth2 requires HTTPS
